@@ -59,7 +59,6 @@ img {
     margin-right: auto;
     width: 50%;
     padding-bottom: 2%;
-    mask-image: radial-gradient( rgba(0,0,0,1) 0%, rgba(0,0,0,0) 90%);
 }
 
 .body {
@@ -94,7 +93,7 @@ img {
 
 .grid {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 1rem;
     padding: 0% 5%;
     align-items: center;
@@ -104,7 +103,7 @@ img {
 
 .grid2 {
     display: grid;
-    grid-template-columns: repeat(2, 0.5fr);
+    grid-template-columns: repeat(1, 1fr);
     gap: 0rem;
     padding: 0% 0%;
     font-size: xx-small;
