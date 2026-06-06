@@ -109,3 +109,9 @@ img {
     font-size: xx-small;
 }
 
+.caption {
+    font-size: 80%;
+    padding: 0% 5%;
+    margin-bottom: 5%;
+    color: #ffffff;
+}
